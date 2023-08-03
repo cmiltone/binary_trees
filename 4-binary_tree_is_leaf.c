@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_leaf - checks if node is a leaf
  * @node: node to check
- * Return - integer, 1 if node is a leaf or 0 if not
+ * Return: - integer, 1 if node is a leaf or 0 if not
  *
 */
 
